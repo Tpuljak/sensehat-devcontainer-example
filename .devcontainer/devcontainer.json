@@ -1,6 +1,6 @@
 {
   "name": "SenseHAT Example",
-  "dockerFile": ".",
+  "dockerFile": "Dockerfile",
   "workspaceFolder": "/workspace/template",
   "remoteUser": "codeany"
 }
